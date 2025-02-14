@@ -1,0 +1,200 @@
+[
+    {
+        "body": "Dear Customer your Account 1****5545 has been credited with ETB 4000.00. Your Current Balance is ETB 4427.57. Thank you for Banking with CBE!. https://apps.cbe.com.et:100/?id=FT24003P00TB96055545J8",
+        "phoneNumber": "+251911121314",
+        "channel":"CBE",
+        "date": "2024-01-04T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear Gashaw your Account 1*********5545 has been debited with ETB 1,000.00. Your Current Balance is ETB 3,427.57 Thank you for Banking with CBE! https://apps.cbe.com.et:100/?id=FT24004S93J896055545",
+        "channel":"CBE",
+        "date": "2024-01-24T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear Customer your Account ****7759 has been Credited with ETB 40124.00 Ref: FT240031LGQ2 ON 03 JAN 2024 16:46 BY SUSPENSE SETTLMENT BRIDGE ACCOUNT. Your Current Balance is ETB 40189.27. Get loans at your fingertips! Download Michu 2.0 here https://michu.com.et/dl",
+        "channel":"CBO",
+        "date": "2024-01-03T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear Customer your Account ****7759 has been Debited with ETB  -10000.00 Ref: FT2400589X2T from  Birmaji Branch ON 05 JAN 2024 07:45 TO xxx bbb. Your Current Balance is ETB 5189.27. Get loans at your fingertips! Download Michu 2.0 here https://michu.com.et/dl",
+        "channel":"CBO",
+        "date": "2024-01-05T18:25:43.511000+00:00"
+    },
+    
+    {
+        "body": "Dear Customer, A/C No. 9*17 has been credited By A/R TELE BIRR with ETB 2,000.00 on 12/01/2024  E-BANKING DEPARTMENT. Info: Telebirr to BoA Account-BAC2S6MGMI BOABANK. Avail. bal: ETB 2,068.04. Join our telegram channel for latest updates https://t.me/BoAEth",
+        "channel":"BOA",
+        "date": "2024-01-14T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear Customer, A/C No. 1*58 has been credited By with ETB 1,000.00 on 15/05/2023 @BOLE ATLAS BRANCH. Info: Cash Deposit-zzz mmm. Avail. bal: ETB 1,007.51. Join our telegram channel for latest updates https://t.me/BoAEth Bank of Abyssinia. for further enquires please call us Toll free (24/7) on 8397.",
+        "channel":"BOA",
+        "date": "2024-01-06T18:25:43.511000+00:00"
+    },
+    
+    {
+        "body": "Dear Customer, A/C No. 9*17 has been debited with ETB 301.50 on 09/12/2023  CHURCHIL ROAD BRANCH. Info: ATM Cash Withdrawal-EthSwitch Issuing Payable. Avail. bal: ETB 220.36. Join our telegram channel for latest updates https://t.me/BoAEth Bank of Abyssinia. for further enquires please call us Toll free (24/7) on 8397.",
+        "channel":"BOA",
+        "date": "2024-01-07T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear Customer, your Account 013251******00 has been Debited with ETB -5000.00 on 2024-01-14 17:22:49. Your balance now is ETB 777777.53. For any complaint or enquiry, please call 8980. You can also subscribe to our telegram channel by clicking on this link https://t.me/awash_bank_official. Thank You. Awash Bank.",
+        "channel":"AwashBank",
+        "date": "2024-01-14T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear Customer, your Account 013251******00 has been Credited with ETB 8100.00 on 2023-12-30 15:45:33 by ABF 12142088. Your balance now is ETB 77777.53. For any complaint or enquiry, please call 8980. You can also subscribe to our telegram channel by clicking on this link https://t.me/awash_bank_official. Thank You. Awash Bank.",
+        "channel":"AwashBank",
+        "date": "2023-12-30T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Birr 4000 ATM cash withdrawal has been made from A/c No. 112xxxxxxxx0014 on 6-Mar-2023 . The A/c Available Bal. is Birr 7777.35 and transaction ATM location is  other bank ATM .Thank you for banking with Zemen Bank",
+        "channel":"ZemenBank",
+        "date": "2024-01-16T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear Customer, Birr 125000  Cheque Point Outward deposit, with  Ck ref No. ABF 6132085 has been made to A/c No. 112xxxxxxxx0014 on 18-Nov-2022 with value date  22-Nov-2022 . The A/c: Current Bal. is Bir 77777.04 Available Bal. is Birr 7777.04 and the transaction Branch is CMC  Banking Center. Thank you for banking with Zemen Bank",
+        "channel":"ZemenBank",
+        "date": "2023-12-30T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear Customer, your account '5307******011' is credited with ETB 20,000.00 on 16/01/2024. Your current balance is ETB 777777.21. Dashen Bank - Always one step ahead!",
+        "channel":"DashenBank",
+        "date": "2024-01-16T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear Customer, ETB5250.00 has been transferred from your Acc: *****8717 via ETSW P2P to Beneficiary - 1000450817938 on 22 NOV 2023. Your available balance is ETB14,737.4 Thank you for Banking with us.Gadaa Bank A New Generation Bank!",
+        "channel":"GedaaBank",
+        "date": "2023-11-23T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear Customer, ETB10000.00 has been transferred to your Acc: *****8717 from bbb mmm on 08 JAN 2024. Your available balance is ETB10,180.42 Thank you for Banking with us. Gadaa Bank A New Generation Bank!",
+        "channel":"GedaaBank",
+        "date": "2024-01-09T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear Customer, A Withdrawal of ETB 700 to your account number 0*52631701 on 18 Jan 2024  04:51. Current balance is 109.57 Wegagen Bank",
+        "channel":"wegagenBank",
+        "date": "2024-01-08T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear yyy ccc, you have transfered 50 ETB to 251989680005 on 18/11/2023 11:55 AM with transaction reference number 346TBAW233220001. Thank you for banking with Wegagen Bank.",
+        "channel":"wegagenBank",
+        "date": "2024-01-09T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear yyy ccc, you have transfered 300 ETB to 251989680005 on 26/10/2023 08:15 PM with transaction reference number 346TBAW232994007. Thank you for banking with Wegagen Bank.",
+        "channel":"wegagenBank",
+        "date": "2024-01-03T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear fff You have transferred ETB 1,000.00 successfully from your telebirr account 2519*****55 to Abay Bank SC account number 282****7011 on 05/01/2024 09:23:46. Your telebirr transaction number is BA53PX4HOZ and your bank transaction number is 005DPTR240051176. Your current balance is ETB 4,003.95.  To download your payment information please click this link: https://transactioninfo.ethiotelecom.et/receipt/BA53PX4HOZ Thank you for using telebirr Ethio telecom",
+        "channel":"127",
+        "date": "2024-01-05T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear fff You have paid ETB 508.00 to pay bill for 624907 on 20/01/2024 21:48:50. Your transaction number is BAK3UG534F. Your telebirr account balance is  ETB 37.33. To download your payment information please click this link: https://transactioninfo.ethiotelecom.et/receipt/BAK3UG534F Thank you for using telebirr Ethio telecom",
+        "channel":"127",
+        "date": "2024-01-06T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear fff You have paid ETB 10.00 for package subscription to 989680005 on 17/11/2023 21:28:50. Your transaction number is  AKH5AB9Z0P. Your current balance is ETB 459.86. Thank you for using telebirr Ethio telecom",
+        "channel":"127",
+        "date": "2024-01-07T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear ddd, You have received ETB 5,000.00 by transaction number BA55PWRVVT on 2024-01-05 08:53:39 from Commercial Bank of Ethiopia to your telebirr Account 2519****9455 - ppp gggg. Your current balance is ETB 5,003.95. Thank you for using telebirr Ethio telecom",
+        "channel":"127",
+        "date": "2024-01-08T18:25:43.511000+00:00"
+    },
+    
+    {
+        "body": "Dear miss You made a payment of 7,286.48 Birr on 17/01/2024 09:28:42 to Kirkos Small Tax payers branch under payment reference number 3945233. The service fee is 36.43 Birr and your account number is BAH2TEVWBK. Your current Telebirr balance is 2,031.32 Birr. Click the button to access your payment information: https://transactioninfo.ethiotelecom.et/receipt/BAH2TEVWBK Thank you for using Telebirr Ethio Telecom",
+        "channel":"127",
+        "date": "2024-01-09T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear miss You have recharged ETB 2.00 airtime for 2519****0005 on 17/11/2023 17:49:41. Your transaction number is AKH1A8VOT9. Your current  balance is  ETB 469.86. Thank you for using telebirr Ethio telecom",
+        "channel":"127",
+        "date": "2024-01-11T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear nnnn, you have received 100.00 Birr from 9000889 - Commercial Bank Of Ethiopia-B2C on 13/1/24 at 6:48 PM. Transaction number is SAD53VGCPN. Your current M-PESA balance is 100.00 Birr",
+        "channel":"M-pesa",
+        "date": "2024-01-12T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear nnn, you have bought 10.00 Birr of airtime for your phone on 13/1/24 6:50 PM. Transaction number SAD23VGCWI. Transaction Fee 0.00 Birr. Your new M-PESA balance is 90.00 Birr. Get free 500MB valid for 24 hours when you download & sign-in to the M-PESA  Safaricom App Click https://bit.ly/M-PESA_SafaricomEthiopia.",
+        "channel":"M-pesa",
+        "date": "2024-01-13T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear Meron, you have bought a Safaricom bundle for 60.00 Birr for your number on 14/1/24 at 4:16 PM. Transaction number SAE03VVWIA. Your current M-PESA balance is 30.00 Birr.Pay for your Shopping using M-PESA! Dial *733*4#.",
+        "channel":"M-pesa",
+        "date": "2024-01-14T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "[-EBIRR-COOPay-] Transfer ID: 379012516, You have successfully transferred ETB1,500 to bank account No: 1000160147176 ( ), your balance is ETB10,196.6",
+        "channel":"COOPayEBIRR",
+        "date": "2024-01-12T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear Customer,your CBE Birr account has been credited with 2,000.00Br. on 28/12/23 08:26,Txn ID ALS0EAEC5U. Your balance is 2,006.05Br. Thank you!",
+        "channel":"CBEBirr",
+        "date": "2023-12-23T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear Customer,you have withdrawn 1,500.00Br. from CBE ATM on 28/12/23 08:31,Txn ID ALS5EAEE85.Your CBE Birr account balance is 500.80Br.Thank You!",
+        "channel":"CBEBirr",
+        "date": "2023-12-28T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear Customer,you bought 25.00Br. of Airtime for 941199455 on 30/12/23 16:42,Txn ID ALU7EBIZDV your CBE Birr account balance is 450.80Br. Thank you for choosing CBE Birr!",
+        "channel":"CBEBirr",
+        "date": "2023-12-30T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear Customer You have successfully sent Gift Daily Holiday 54Min and 10 SMS to be expired after 24 hrs to 0908071775. When you need information or support related to our products and services, you can use the below options Send SMS to 8994 web:https://www.ethiotelecom.et/ e-mail: 994@ethionet.et WhatsApp chat: +251 99 400 0000 telegram:https: //t.me/ethio_telecom We are always delighted to serve you. Happy Holiday!  Ethio telecom",
+        "channel":"994",
+        "date": "2024-01-03T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear Customer, 10 Birr credit is successfully provided to you. Thank you! Ethio telecom",
+        "channel":"810",
+        "date": "2024-01-03T18:25:43.511000+00:00"
+    },
+
+    {
+        "body": "Dear Customer, your debt is fully covered. To apply for credit please dial *810#. Thank you! Ethio telecom",
+        "channel":"810",
+        "date": "2024-01-04T18:25:43.511000+00:00"
+    }
+]
