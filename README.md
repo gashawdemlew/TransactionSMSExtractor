@@ -53,6 +53,6 @@ Clone the repository to your local machine and navigate into the project folder:
 
 ```bash
 git clone https://github.com/gashawdemlew/TransactionSMSExtractor.git
-cd TransactionSMSExtractor ```
+cd TransactionSMSExtractor
 
 ### 2. Check Python Version
