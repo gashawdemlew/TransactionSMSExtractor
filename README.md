@@ -56,3 +56,22 @@ git clone https://github.com/gashawdemlew/TransactionSMSExtractor.git
 cd TransactionSMSExtractor
 ```
 ### 2. Check Python Version
+Ensure your Python version is 3.11.5 or higher. Run the following command:
+```bash
+python --version
+```
+---
+
+### 3. Set Up a Virtual Environment (Optional but Recommended)
+To avoid dependency conflicts, create and activate a virtual environment:
+On Linux/Mac:
+```bash
+python -m venv venv
+source venv/bin/activate
+```
+On Windows:
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+Once activated, your terminal prompt should show the virtual environment name (e.g., (venv)).
