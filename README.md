@@ -146,7 +146,7 @@ Use the sample SMS data provided in the testData folder to validate the API. Rep
 
 ---
 
-9. Deploy the API (Optional)
+### 9. Deploy the API (Optional)
 
 You can deploy the API to a cloud platform for public access. Deployment options include:
 
