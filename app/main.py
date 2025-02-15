@@ -42,9 +42,8 @@ async def start_root():
     return msg
 
 @app.post("/sms_extractor", tags=["Financial SMS extraction"])
-async def score(
+async def extract(
     input_data: SMSExtractedText,
-
 ):
     start_time = time.perf_counter()
     
