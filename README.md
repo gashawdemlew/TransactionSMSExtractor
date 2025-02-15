@@ -186,6 +186,11 @@ Here is an example of the complete workflow:
 
 ---
 
+### Test Deployed API
+The API is deployed on Hugging Face space, Please [here](https://huggingface.co/spaces/gashudemman/TransactionSMSExtractorAPI).here to test.
+
+---
+
 ### Contribution
 Contributions are welcome! If you'd like to improve the project or add new features:
 
